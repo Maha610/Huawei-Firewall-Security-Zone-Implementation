@@ -5,7 +5,6 @@ Developed as part of HCIA-Security certification preparation and practical cyber
 
 This project demonstrates enterprise-grade network security using Huawei firewall with three-zone segmentation (Trust, Untrust, DMZ) to enforce layered security policies and protect critical assets.
 
-
 ##
 📋Key Features:
 
