@@ -41,6 +41,3 @@ Network Address Translation (NAT)
 Threat Mitigation Strategies
 
 Security Policy Design
-
-
-Developed as part of HCIA-Security certification preparation and practical cybersecurity training.
